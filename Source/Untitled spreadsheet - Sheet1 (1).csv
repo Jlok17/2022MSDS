@@ -1,0 +1,339 @@
+City,State,Region,Income
+Agartala,Tripura,North East India,"1,617.00"
+Agra,Uttar Pradesh,North India,832.00
+Ahmedabad,Gujarat,West India,"2,872.00"
+Aizwal,Mizoram,East India,"1,949.00"
+Ajmer,Rajasthan,West India,"1,565.00"
+Allahabad,Uttar Pradesh,North India,832.00
+Alleppey,Kerala,South India,"2,767.00"
+Alibaug,Maharashtra,West India,"2,606.00"
+Almora,Uttaranchal,North India,#N/A
+Alsisar,Rajasthan,West India,"1,565.00"
+Alwar,Rajasthan,West India,"1,565.00"
+Ambala,Haryana,North India,"3,181.00"
+Amla,Madhya Pradesh,Central India,"1,416.00"
+Amritsar,Punjab,North India,"2,023.00"
+Anand,Gujarat,West India,"2,872.00"
+Ankleshwar,Gujarat,West India,"2,872.00"
+Ashtamudi,Kerala,South India,"2,767.00"
+Auli,Himachal Pradesh,North India,"2,474.00"
+Aurangabad,Maharashtra,West India,"2,606.00"
+Baddi,Himachal Pradesh,North India,"2,474.00"
+Badrinath,Uttaranchal,North India,#N/A
+Balasinor,Gujarat,West India,"2,872.00"
+Balrampur,Uttar Pradesh,North India,832.00
+Bambora,Rajasthan,West India,"1,565.00"
+Bandhavgarh,Madhya Pradesh,Central India,"1,416.00"
+Bandipur,Karnataka,South India,"3,191.00"
+Bangalore,Karnataka,South India,"3,191.00"
+Barbil,Orissa,East India,#N/A
+Bareilly,Uttar Pradesh,North India,832.00
+Behror,Rajasthan,West India,"1,565.00"
+Belgaum,Karnataka,South India,"3,191.00"
+Berhampur,Orissa,East India,#N/A
+Betalghat,Uttaranchal,North India,#N/A
+Bharatpur,Rajasthan,West India,"1,565.00"
+Bhandardara,Maharashtra,West India,"2,606.00"
+Bharuch,Gujarat,West India,"2,872.00"
+Bhavangadh,Gujarat,West India,"2,872.00"
+Bhavnagar,Gujarat,West India,"2,872.00"
+Bhilai,Chhattisgarh,East India,"1,416.00"
+Bhimtal,Uttaranchal,North India,#N/A
+Bhopal,Madhya Pradesh,Central India,"1,416.00"
+Bhubaneshwar,Orissa,East India,#N/A
+Bhuj,Gujarat,West India,"2,872.00"
+Bikaner,Rajasthan,West India,"1,565.00"
+Binsar,Uttaranchal,North India,#N/A
+Bodhgaya,Bihar,East India,588.00
+Bundi,Rajasthan,West India,"1,565.00"
+Calicut,Kerala,South India,"2,767.00"
+Canannore,Kerala,South India,"2,767.00"
+Chail,Himachal Pradesh,North India,"2,474.00"
+Chamba,Uttaranchal,North India,#N/A
+Chandigarh,Punjab,North India,"2,023.00"
+Chennai,Tamil Nadu,South India,"2,863.00"
+Chikmagalur,Karnataka,South India,"3,191.00"
+Chiplun,Maharashtra,West India,"2,606.00"
+Chitrakoot,Madhya Pradesh,Central India,"1,416.00"
+Chittorgarh,Rajasthan,West India,"1,565.00"
+Coimbatore,Tamil Nadu,South India,"2,863.00"
+Coonoor,Tamil Nadu,South India,"2,863.00"
+Coorg,Karnataka,South India,"3,191.00"
+Corbett National Park,Uttaranchal,North India,#N/A
+Cuttack,Orissa,East India,#N/A
+Dabhosa,Maharashtra,West India,"2,606.00"
+Dalhousie,Himachal Pradesh,North India,"2,474.00"
+Daman,Union Territory Of Dadra & Nagar Haveli,West India,#N/A
+Dandeli,Karnataka,South India,"3,191.00"
+Dapoli,Maharashtra,West India,"2,606.00"
+Darjeeling,West Bengal,East India,"1,637.00"
+Dausa,Rajasthan,West India,"1,565.00"
+Dehradun,Uttar Pradesh,North India,832.00
+Dharamshala,Himachal Pradesh,North India,"2,474.00"
+Dibrugarh,Assam,East India,"1,172.00"
+Digha,West Bengal,East India,"1,637.00"
+Diu,Union Territory Of Dadra & Nagar Haveli,West India,#N/A
+Dive Agar,Maharashtra,West India,"2,606.00"
+Dooars,West Bengal,East India,"1,637.00"
+Durgapur,West Bengal,East India,"1,637.00"
+Durshet,Maharashtra,West India,"2,606.00"
+Dwarka,Gujarat,West India,"2,872.00"
+Faridabad,Haryana,North India,"3,181.00"
+Firozabad,Uttar Pradesh,North India,832.00
+Gangotri,Uttaranchal,North India,#N/A
+Gangtok,Sikkim,East India,"5,570.00"
+Ganapatipule,Maharashtra,West India,"2,606.00"
+Gandhidham,Gujarat,West India,"2,872.00"
+Gandhinagar,Gujarat,West India,"2,872.00"
+Garhmukteshwar,Uttar Pradesh,North India,832.00
+Garhwal,Uttaranchal,North India,#N/A
+Gaya,Bihar,East India,588.00
+Ghaziabad,New Delhi,North India,#N/A
+Goa,Goa,West India,"5,821.00"
+Gokharna,Kerala,South India,"2,767.00"
+Gondal,Gujarat,West India,"2,872.00"
+Gorakhpur,Uttar Pradesh,East India,832.00
+Greater Noida,Ncr,North India,#N/A
+Gulmarg,Jammu & Kashmir,North India,#N/A
+Gurgaon,Haryana,North India,"3,181.00"
+Guruvayoor,Kerala,South India,"2,767.00"
+Guwahati,Assam,East India,"1,172.00"
+Gwalior,Madhya Pradesh,Central India,"1,416.00"
+Halebid,Karnataka,South India,"3,191.00"
+Hampi,Karnataka,South India,"3,191.00"
+Hansi,Haryana,North India,"3,181.00"
+Haridwar,Uttar Pradesh,North India,832.00
+Hassan,Karnataka,South India,"3,191.00"
+Hospet,Karnataka,South India,"3,191.00"
+Hosur,Tamil Nadu,South India,"2,863.00"
+Hubli,Karnataka,South India,"3,191.00"
+Hyderabad,Andhra Pradesh,South India,"2,385.00"
+Idukki,Kerala,South India,"2,767.00"
+Igatpuri,Maharashtra,West India,"2,606.00"
+Imphal,Manipur,East India,"1,185.00"
+Indore,Madhya Pradesh,Central India,"1,416.00"
+Jabalpur,Madhya Pradesh,Central India,"1,416.00"
+Jaipur,Rajasthan,West India,"1,565.00"
+Jaisalmer,Rajasthan,West India,"1,565.00"
+Jalandhar,Punjab,North India,"2,023.00"
+Jalgaon,Maharashtra,West India,"2,606.00"
+Jambugodha,Gujarat,West India,"2,872.00"
+Jammu,Jammu & Kashmir,North India,#N/A
+Jamnagar,Gujarat,West India,"2,872.00"
+Jamshedpur,Jharkhand,East India,959.00
+Jawhar,Maharashtra,West India,"2,606.00"
+Jhansi,Uttar Pradesh,North India,832.00
+Jodhpur,Rajasthan,West India,"1,565.00"
+Jojawar,Rajasthan,West India,"1,565.00"
+Jorhat,Assam,East India,"1,172.00"
+Junagadh,Gujarat,West India,"2,872.00"
+Kabini,Karnataka,South India,"3,191.00"
+Kalimpong,West Bengal,East India,"1,637.00"
+Kanatal,Uttaranchal,North India,#N/A
+Kanchipuram,Tamil Nadu,South India,"2,863.00"
+Kanha,Madhya Pradesh,Central India,"1,416.00"
+Kanpur,Uttar Pradesh,East India,832.00
+Kanyakumari,Tamil Nadu,South India,"2,863.00"
+Kargil,Jammu & Kashmir,North India,#N/A
+Karjat,Maharashtra,West India,"2,606.00"
+Karnal,Haryana,North India,"3,181.00"
+Karur,Tamil Nadu,South India,"2,863.00"
+Karwar,Karnataka,South India,"3,191.00"
+Kasargod,Kerala,South India,"2,767.00"
+Kasauli,Himachal Pradesh,North India,"2,474.00"
+Kashipur,Uttaranchal,North India,#N/A
+Kashid,Maharashtra,West India,"2,606.00"
+Katra,Jammu & Kashmir,North India,#N/A
+Kausani,Uttarakhand,North India,"2,466.00"
+Kaza,Himachal Pradesh,North India,"2,474.00"
+Kaziranga,Assam,East India,"1,172.00"
+Kedarnath,Uttaranchal,North India,#N/A
+Khajjiar,Himachal Pradesh,North India,"2,474.00"
+Khajuraho,Madhya Pradesh,Central India,"1,416.00"
+Khandala,Maharashtra,West India,"2,606.00"
+Khimsar,Rajasthan,West India,"1,565.00"
+Kochin,Kerala,South India,"2,767.00"
+Kodaikanal,Tamil Nadu,South India,"2,863.00"
+Kolhapur,Maharashtra,West India,"2,606.00"
+Kolkata,West Bengal,East India,"1,637.00"
+Kollam,Kerala,South India,"2,767.00"
+Kota,Rajasthan,West India,"1,565.00"
+Kotagiri,Tamil Nadu,South India,"2,863.00"
+Kottayam,Kerala,South India,"2,767.00"
+Kovalam,Kerala,South India,"2,767.00"
+Kufri,Himachal Pradesh,North India,"2,474.00"
+Kumbalgarh,Rajasthan,West India,"1,565.00"
+Kullu,Himachal Pradesh,North India,"2,474.00"
+Kumarakom,Kerala,South India,"2,767.00"
+Kumbakonam,Tamil Nadu,South India,"2,863.00"
+Kumily,Kerala,South India,"2,767.00"
+Kurseong,West Bengal,East India,"1,637.00"
+Kushinagar,Uttar Pradesh,North India,832.00
+Lachung,North Sikkim,North-East India,#N/A
+Leh,Jammu & Kashmir,North India,#N/A
+Lakshadweep,Union Territory Of Lakshadweep,South India,#N/A
+Lonavala,Maharashtra,West India,"2,606.00"
+Lothal,Gujarat,West India,"2,872.00"
+Lucknow,Uttar Pradesh,North India,832.00
+Ludhiana,Punjab,North India,"2,023.00"
+Madurai,Tamil Nadu,South India,"2,863.00"
+Mahabaleshwar,Maharashtra,West India,"2,606.00"
+Mahabalipuram,Tamil Nadu,South India,"2,863.00"
+Malappuram,Kerala,South India,"2,767.00"
+Malpe,Karnataka,South India,"3,191.00"
+Malshej Ghat,Maharashtra,West India,"2,606.00"
+Malvan,Maharashtra,West India,"2,606.00"
+Manali,Himachal Pradesh,North India,"2,474.00"
+Mandavi,Gujarat,West India,"2,872.00"
+Mandawa,Rajasthan,West India,"1,565.00"
+Manesar,Haryana,North India,"3,181.00"
+Mararri,Kerala,South India,"2,767.00"
+Mandormoni,West Bengal,East India,"1,637.00"
+Mangalore,Karnataka,South India,"3,191.00"
+Manmad,Maharashtra,Western Region,"2,606.00"
+Marchula,Uttaranchal,North India,#N/A
+Matheran,Maharashtra,West India,"2,606.00"
+Mathura,Uttar Pradesh,North India,832.00
+Mcleodganj,Himachal Pradesh,North India,"2,474.00"
+Mohali,Punjab,North India,"2,023.00"
+Mount Abu,Rajasthan,West India,"1,565.00"
+Moradabad,Uttar Pradesh,North India,832.00
+Morbi,Gujarat,West India,"2,872.00"
+Mukteshwar,Uttaranchal,North India,#N/A
+Mumbai,Maharashtra,West India,"2,606.00"
+Mundra,Maharashtra,West India,"2,606.00"
+Munnar,Kerala,South India,"2,767.00"
+Murud Janjira,Maharashtra,West India,"2,606.00"
+Mussoorie,Uttaranchal,North India,#N/A
+Mysore,Karnataka,South India,"3,191.00"
+Nadukani,Kerala,South India,"2,767.00"
+Nagapattinam,Tamil Nadu,South India,"2,863.00"
+Nagarhole,Karnataka,South India,"3,191.00"
+Nagaur Fort,Rajasthan,West India,"1,565.00"
+Nagothane,Maharashtra,West India,"2,606.00"
+Nagpur,Maharashtra,West India,"2,606.00"
+Nahan,Himachal Pradesh,North India,"2,474.00"
+Nainital,Uttar Pradesh,North India,832.00
+Naldhera,Himachal Pradesh,North India,"2,474.00"
+Nanded,Maharashtra,West India,"2,606.00"
+Napne,Maharashtra,West India,"2,606.00"
+Nasik,Maharashtra,West India,"2,606.00"
+Navi Mumbai,Maharashtra,West India,"2,606.00"
+Neral,Maharashtra,West India,"2,606.00"
+New Delhi,Delhi,North India,"4,644.00"
+Nilgiri,Tamil Nadu,South India,"2,863.00"
+Noida,Uttar Pradesh,North India,832.00
+Ooty,Tamil Nadu,South India,"2,863.00"
+Orchha,Madhya Pradesh,Central India,"1,416.00"
+Osian,Rajasthan,West India,"1,565.00"
+Pachmarhi,Madhya Pradesh,Central India,"1,416.00"
+Palampur,Himachal Pradesh,North India,"2,474.00"
+Palanpur,Gujarat,West India,"2,872.00"
+Pali,Rajasthan,West India,"1,565.00"
+Pahalgam,Jammu & Kashmir,North India,#N/A
+Palitana,Gujarat,West India,"2,872.00"
+Pallakad,Kerala,South India,"2,767.00"
+Panchgani,Maharashtra,West India,"2,606.00"
+Panchkula,Haryana,North India,"3,181.00"
+Panna,Madhya Pradesh,Central India,"1,416.00"
+Panhala,Maharashtra,West India,"2,606.00"
+Panvel,Maharashtra,West India,"2,606.00"
+Pantnagar,Uttaranchal,North India,#N/A
+Parwanoo,Himachal Pradesh,North India,"2,474.00"
+Patiala,Punjab,North India,"2,023.00"
+Pathankot,Jammu & Kashmir,North India,#N/A
+Patna,Bihar,East India,588.00
+Patnitop,Jammu & Kashmir,North India,#N/A
+Pelling,West Sikkim,East India,#N/A
+Pench,Madhya Pradesh,West India,"1,416.00"
+Phagwara,Punjab,North India,"2,023.00"
+Phalodi,Rajasthan,West India,"1,565.00"
+Pinjore,Haryana,North India,"3,181.00"
+Pondicherry,Tamil Nadu,South India,"2,863.00"
+Poovar,Kerala,South India,"2,767.00"
+Porbandar,Gujarat,West India,"2,872.00"
+Port Blair,Andaman & Nicobar Islands,South India,#N/A
+Poshina,Gujarat,West India,"2,872.00"
+Pragpur,Himachal Pradesh,North India,"2,474.00"
+Pune,Maharashtra,West India,"2,606.00"
+Puri,Orissa,East India,#N/A
+Puskhar,Rajasthan,West India,"1,565.00"
+Puttaparthi,Andhra Pradesh,South India,"2,385.00"
+Rai Bareilly,Uttar Pradesh,North India,832.00
+Raichak,West Bengal,East India,"1,637.00"
+Raipur,Chhattisgarh,Central India,"1,416.00"
+Rajasthan,Rajasthan,West India,"1,565.00"
+Rajgir,Bihar,East India,588.00
+Rajkot,Gujarat,West India,"2,872.00"
+Rajpipla,Gujarat,West India,"2,872.00"
+Rajsamand,Rajasthan,West India,"1,565.00"
+Rajahmundry,Andhra Pradesh,South India,"2,385.00"
+Rameshwaram,Tamil Nadu,South India,"2,863.00"
+Ram Nagar,Uttar Pradesh,North India,832.00
+Ramgarh,Rajasthan,West India,"1,565.00"
+Ranakpur,Rajasthan,West India,"1,565.00"
+Ranchi,Jharkhand,East India,959.00
+Ranikhet,Uttaranchal,North India,#N/A
+Ranny,Kerala,South India,"2,767.00"
+Ranthambore,Rajasthan,West India,"1,565.00"
+Ratnagiri,Maharashtra,West India,"2,606.00"
+Ravangla,Sikkim,East India,"5,570.00"
+Rishikesh,Uttar Pradesh,North India,832.00
+Rishyap,West Bengal,East India,"1,637.00"
+Rohetgarh,Rajasthan,West India,"1,565.00"
+Rourkela,Orissa,East India,#N/A
+Sajan,Maharashtra,West India,"2,606.00"
+Salem,Tamil Nadu,South India,"2,863.00"
+Saputara,Gujarat,West India,"2,872.00"
+Sasan Gir,Gujarat,West India,"2,872.00"
+Sattal,Uttaranchal,North India,#N/A
+Sawai Madhopur,Rajasthan,West India,"1,565.00"
+Sawantwadi,Maharashtra,West India,"2,606.00"
+Secunderabad,Andhra Pradesh,South India,"2,385.00"
+Shillong,Meghalaya,East India,"1,142.00"
+Shimla,Himachal Pradesh,North India,"2,474.00"
+Shimlipal,Orissa,East India,#N/A
+Shirdi,Maharashtra,West India,"2,606.00"
+Sharavanbelgola,Karnataka,South India,"3,191.00"
+Shivanasamudra,Karnataka,South India,"3,191.00"
+Siana,Rajasthan,West India,"1,565.00"
+Siliguri,West Bengal,East India,"1,637.00"
+Silvassa,Union Territory Of Dadra & Nagar Haveli,West India,#N/A
+Sivaganga District,Tamil Nadu,South India,"2,863.00"
+Solan,Himachal Pradesh,North India,"2,474.00"
+Sonauli,Uttar Pradesh,North India,832.00
+Srinagar,Jammu & Kashmir,North India,#N/A
+Sunderban,West Bengal,East India,"1,637.00"
+Surat,Gujarat,West India,"2,872.00"
+Tanjore,Tamil Nadu,South India,"2,863.00"
+Tapola,Maharashtra,West India,"2,606.00"
+Tarapith,West Bengal,East India,"1,637.00"
+Thane,Maharashtra,West India,"2,606.00"
+Thekkady,Kerala,South India,"2,767.00"
+Thirvannamalai,Tamil Nadu,South India,"2,863.00"
+Thiruvananthapuram,Kerala,South India,"2,767.00"
+Tiruchirapalli,Tamil Nadu,South India,"2,863.00"
+Tirupur,Tamil Nadu,South India,"2,863.00"
+Tirupati,Andhra Pradesh,South India,"2,385.00"
+Thrissur,Kerala,South India,"2,767.00"
+Udaipur,Rajasthan,West India,"1,565.00"
+Udhampur,Jammu & Kashmir,North India,#N/A
+Udupi,Karnataka,South India,"3,191.00"
+Ujjain,Madhya Pradesh,Central India,"1,416.00"
+Uttarkashi,Uttaranchal,North India,#N/A
+Vadodara,Gujarat,West India,"2,872.00"
+Vagamon,Kerala,South India,"2,767.00"
+Varkala,Kerala,South India,"2,767.00"
+Vapi,Gujarat,West India,"2,872.00"
+Varanasi,Uttar Pradesh,North India,832.00
+Velankanni,Tamil Nadu,South India,"2,863.00"
+Vellore,Tamil Nadu,South India,"2,863.00"
+Veraval,Maharashtra,West India,"2,606.00"
+Vijayawada,Andhra Pradesh,South India,"2,385.00"
+Vikramgadh,Maharashtra,West India,"2,606.00"
+Vishakapatnam,Andhra Pradesh,South India,"2,385.00"
+Wayanad,Kerala,South India,"2,767.00"
+Wankaner,Gujarat,West India,"2,872.00"
+Yamunotri,Uttaranchal,North India,#N/A
+Yercaud,Tamil Nadu,South India,"2,863.00"
+Yuksom,Sikkim,North East India,"5,570.00"
