@@ -1,4 +1,4 @@
-Year ,No_Smoothing, Lowess(5)
+Year ,No_Smoothing,Lowess(5)
 1880 ,-0.16 ,-0.09
 1881 ,-0.08 ,-0.13
 1882 ,-0.11 ,-0.16
