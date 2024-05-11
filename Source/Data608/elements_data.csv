@@ -1,0 +1,51 @@
+Element,source_1,s1_prop,s1_type,source_2,s2_prop,s2_type,source_3,s3_prop,s3_type,source_4,s4_prop,s4_type,source_5,s5_prop,s5_type
+Aluminum,Canada,0.5,Ally,U.A.E.,0.09,Ally,Russia,0.04,Competitor,China,0.04,Competitor,other,0.32,Neutral
+Antimony,China,0.46,Competitor,Italy,0.34,Ally,India,0.12,Competitor,Belgium,0.05,Ally,other,0.03,Neutral
+Arsenic,Malaysia,0.82,Neutral,Hungary,0.11,Neutral,China,0.07,Competitor,,,,,,
+Barite,China,0.38,Competitor,India,0.29,Competitor,Morocco,0.16,Ally,Mexico,0.13,Ally,other,0.04,Neutral
+Beryllium,Kazakhstan,0.43,Neutral,Japan,0.15,Ally,Latvia,0.15,Ally,Brazil,0.1,Competitor,other,0.17,Neutral
+Bismuth,China,0.65,Competitor,S. Korea,0.19,Ally,Mexico,0.05,Ally,Belgium,0.03,Ally,other,0.08,Neutral
+Cerium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Cesium**,,,,,,,,,,,,,,,
+Chromium,S. Africa,0.3,Competitor,Kazakhstan,0.13,Neutral,Russia,0.09,Competitor,Germany,0.07,Ally,other,0.41,Neutral
+Cobalt,Norway,0.22,Ally,Canada,0.16,Ally,Finland,0.12,Ally,Japan,0.12,Ally,other,0.38,Neutral
+Dysprosium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Erbium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Europium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Fluorspar,Mexico,0.66,Ally,Vietnam,0.16,Neutral,S. Africa,0.07,Competitor,Canada,0.07,Ally,other,0.04,Neutral
+Gadolinium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Gallium,China,0.53,Competitor,Germany,0.13,Ally,Japan,0.13,Ally,Ukraine,0.05,Ally,other,0.16,Neutral
+Germanium,China,0.58,Competitor,Belgium,0.21,Ally,Germany,0.1,Ally,Russia,0.08,Competitor,other,0.03,Neutral
+Graphite,China,0.33,Competitor,Mexico,0.18,Ally,Canada,0.17,Ally,Madagascar,0.1,Neutral,other,0.22,Neutral
+Hafnium,Germany,0.36,Ally,France,0.3,Ally,China,0.26,Competitor,Russia,0.03,Competitor,other,0.05,Neutral
+Holmium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Indium,S. Korea,0.32,Ally,Canada,0.22,Ally,China,0.18,Competitor,France,0.09,Ally,other,0.19,Neutral
+Iridium**,,,,,,,,,,,,,,,
+Lanthanum*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Lithium,Argentina,0.51,Ally,Chile,0.4,Neutral,China,0.04,Competitor,Russia,0.03,Competitor,other,0.02,Neutral
+Lutetium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Magnesium,Israel,0.31,Ally,Russia,0.29,Competitor,Turkey,0.27,Ally,Canada,0.06,Ally,other,0.07,Neutral
+Manganese,Gabon,0.67,Ally,S. Africa,0.19,Competitor,Mexico,0.12,Ally,other,0.02,Neutral,,,
+Neodymium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Nickel,Canada,0.45,Ally,Norway,0.09,Ally,Australia,0.08,Ally,Finland,0.07,Ally,other,0.31,Neutral
+Niobium,Australia,0.42,Ally,Rawanda,0.21,Neutral,Congo,0.12,Neutral,Mozambique,0.07,Neutral,other,0.18,Neutral
+Palladium,Russia,0.34,Competitor,S. Africa,0.3,Competitor,Italy,0.08,Ally,Germany,0.08,Ally,other,0.2,Neutral
+Platinum,S. Africa,0.34,Competitor,Germany,0.18,Ally,Switzerland,0.14,Neutral,Italy,0.04,Ally,other,0.27,Neutral
+Praseodymium*,China,0.74,Competitor,Malaysia,0.08,Neutral,Estonia,0.05,Ally,Japan,0.05,Ally,other,0.08,Neutral
+Rhodium**,,,,,,,,,,,,,,,
+Rubidium**,,,,,,,,,,,,,,,
+Ruthenium**,,,,,,,,,,,,,,,
+Samarium**,,,,,,,,,,,,,,,
+Scandium**,,,,,,,,,,,,,,,
+Tantalum,Australia,0.42,Ally,Rawanda,0.21,Neutral,Congo,0.12,Neutral,Mozambique,0.07,Neutral,other,0.18,Neutral
+Tellurium,Canada,0.52,Ally,Germany,0.24,Ally,China,0.12,Competitor,Philippines,0.08,Ally,other,0.04,Neutral
+Terbium**,,,,,,,,,,,,,,,
+Thulium**,,,,,,,,,,,,,,,
+Tin,Peru,0.25,Neutral,Indonesia,0.24,Neutral,Bolivia,0.17,Neutral,Malaysia,0.16,Neutral,other,0.18,Neutral
+Titanium,S. Africa,0.39,Competitor,Australia,0.15,Ally,Madagascar,0.14,Neutral,Canada,0.1,Ally,other,0.22,Neutral
+Tungsten,China,0.29,Competitor,Germany,0.11,Ally,Bolivia,0.09,Neutral,Vietnam,0.06,Neutral,other,0.45,Neutral
+Vanadium,Australia,0.38,Ally,Canada,0.38,Ally,Russia,0.1,Competitor,Japan,0.04,Ally,other,0.1,Neutral
+Ytterbium**,,,,,,,,,,,,,,,
+Yttrium,China,0.94,Competitor,Germany,0.03,Ally,S. Korea,0.01,Ally,Japan,0.01,Ally,other,0.01,Neutral
+Zinc,Peru,0.71,Neutral,Canada,0.15,Ally,China,0.07,Competitor,Taiwan,0.04,Ally,other,0.03,Neutral
+Zirconium,S. Africa,0.51,Competitor,Senegal,0.25,Neutral,Australia,0.21,Ally,Russia,0.02,Competitor,other,0.01,Neutral
